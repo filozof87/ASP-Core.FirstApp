@@ -1,0 +1,11 @@
+E:\VisualStudio\dotnet\ASP.CoreFirst\ASP.CoreFirstApp\ASP.CoreFirstApp\bin\Debug\netcoreapp2.0\ASP.CoreFirstApp.deps.json
+E:\VisualStudio\dotnet\ASP.CoreFirst\ASP.CoreFirstApp\ASP.CoreFirstApp\bin\Debug\netcoreapp2.0\ASP.CoreFirstApp.runtimeconfig.json
+E:\VisualStudio\dotnet\ASP.CoreFirst\ASP.CoreFirstApp\ASP.CoreFirstApp\bin\Debug\netcoreapp2.0\ASP.CoreFirstApp.runtimeconfig.dev.json
+E:\VisualStudio\dotnet\ASP.CoreFirst\ASP.CoreFirstApp\ASP.CoreFirstApp\bin\Debug\netcoreapp2.0\ASP.CoreFirstApp.dll
+E:\VisualStudio\dotnet\ASP.CoreFirst\ASP.CoreFirstApp\ASP.CoreFirstApp\bin\Debug\netcoreapp2.0\ASP.CoreFirstApp.pdb
+E:\VisualStudio\dotnet\ASP.CoreFirst\ASP.CoreFirstApp\ASP.CoreFirstApp\obj\Debug\netcoreapp2.0\ASP.CoreFirstApp.csprojResolveAssemblyReference.cache
+E:\VisualStudio\dotnet\ASP.CoreFirst\ASP.CoreFirstApp\ASP.CoreFirstApp\obj\Debug\netcoreapp2.0\ASP.CoreFirstApp.csproj.CoreCompileInputs.cache
+E:\VisualStudio\dotnet\ASP.CoreFirst\ASP.CoreFirstApp\ASP.CoreFirstApp\obj\Debug\netcoreapp2.0\ASP.CoreFirstApp.AssemblyInfoInputs.cache
+E:\VisualStudio\dotnet\ASP.CoreFirst\ASP.CoreFirstApp\ASP.CoreFirstApp\obj\Debug\netcoreapp2.0\ASP.CoreFirstApp.AssemblyInfo.cs
+E:\VisualStudio\dotnet\ASP.CoreFirst\ASP.CoreFirstApp\ASP.CoreFirstApp\obj\Debug\netcoreapp2.0\ASP.CoreFirstApp.dll
+E:\VisualStudio\dotnet\ASP.CoreFirst\ASP.CoreFirstApp\ASP.CoreFirstApp\obj\Debug\netcoreapp2.0\ASP.CoreFirstApp.pdb
